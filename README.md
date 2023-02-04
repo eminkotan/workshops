@@ -26,7 +26,7 @@ width="150"
 ---
 
 ### ✏️ Katkı Vermek
-yeni atölye çalışmalarına katkıda bulunma veya mevcut atölyeleri değiştirme talimatları için lütfen [KATKI](./CONTRIBUTING.md) bölümüne bakınız.
+Yeni atölye çalışmalarına katkıda bulunma ya da mevcut atölyeleri değiştirme talimatları için lütfen [KATKI](./CONTRIBUTING.md) bölümüne bakınız.
 
 ### 📗 Öğrenmek
 Her atölyeden öğrenebileceğiniz dersler için ayrıntıları, her atölyenin `README.md`sinde bulabilirsiniz.
