@@ -1,6 +1,6 @@
 # Katkı
 
-**🔑 🔑  [Solana Beginner Crash Course](./workshops/beginner-crash-course) atölyesi yeni tamamlandı.  Let this serve as a template for all future workshops, including associated documentation and recordings. Bunun, ilgili belgeler ve kayıtlar da dahil olmak üzere gelecekteki tüm atölyeler için bir şablon görevi görmesine izin verin. **
+** 🔑 🔑  [Solana Beginner Crash Course](./workshops/beginner-crash-course) atölyesi yeni tamamlandı.  Let this serve as a template for all future workshops, including associated documentation and recordings. Bunun, ilgili belgeler ve kayıtlar da dahil olmak üzere gelecekteki tüm atölyeler için bir şablon görevi görmesine izin verin. **
 
 ---
 
