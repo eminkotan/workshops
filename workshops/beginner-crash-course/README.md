@@ -1,24 +1,24 @@
-# Beginner Crash Course
+# Yeni Başlayanlar için Solana Kursu
 
-## 🎬 Recorded Sessions
-| Link | Instructor | Event |
+## 🎬 Kayıtlı Oturumlar
+| Link | Eğitmen | Etkinlik |
 | ---- | ---------- | ----- |
 | [<img src="../../.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Video](https://www.youtube.com/watch?v=FQYmWWw5l04) | Joe Caulfield | Encode Hackathon 2023 |
 | [<img src="../../.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Playlist Version](https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX) | Joe Caulfield | Encode Hackathon 2023 |
 
-## 📗 Learn
-
-We're going to cover the basics of Solana development to get you started building on Solana.   
+## 📗 Öğren
+ 
+Solana üzerinde geliştirmeye başlamanız için Solana geliştirmenin temellerini ele alacağız.
    
-We'll cover the following concepts:
-* [Keypairs](#🔑-keypairshttpssolanacookbookcomreferenceskeypairs-and-walletshtmlhow-to-generate-a-new-keypair)
-* [The System Program](#⚙️-the-system-programhttpsdocssolanacomdevelopingruntime-facilitiesprograms)
-* [Accounts](#📂-accountshttpssolanacookbookcomcore-conceptsaccountshtmlfacts)
-    * Rent
-    * Executable Accounts
-    * Data
-    * Ownership
-* [Transacting with Solana's Network](#🖲️-transacting-with-solanas-networkhttpsdocssolanacomdevelopingprogramming-modeltransactions)
+Aşağıdaki kavramları ele alacağız:
+* [Anahtar Çiftleri](#🔑-keypairshttpssolanacookbookcomreferenceskeypairs-and-walletshtmlhow-to-generate-a-new-keypair)
+* [Sistem Programı](#⚙️-the-system-programhttpsdocssolanacomdevelopingruntime-facilitiesprograms)
+* [Accounts - Hesaplar](#📂-accountshttpssolanacookbookcomcore-conceptsaccountshtmlfacts)
+    * Rent (Kiralama)
+    * Executable Accounts (İşlenebilir Hesap) 
+    * Data (Veri)
+    * Ownership (Sahiplik)
+* [Solana'nın Ağı ile İşlem Yapmak](#🖲️-transacting-with-solanas-networkhttpsdocssolanacomdevelopingprogramming-modeltransactions)
     * Requesting Data from Solana
     * Modifying Data on Solana
 * [Writing Programs](#📝-writing-programshttpssolanacookbookcomreferencesprogramshtmlhow-to-transfer-sol-in-a-program)
