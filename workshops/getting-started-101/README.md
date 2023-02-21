@@ -1,6 +1,6 @@
 # Solana 101 ile Başlangıç
 
-## 🎬 Recorded Sessions
+## 🎬 Kayıtlı Oturumlar
 | Link | Eğitmen | Etkinlik |
 | ---- | ---------- | ----- |
 | [<img src="../../.docs/youtube-icon.png" alt="youtube" width="20" align="center"/>](https://github.com/solana-developers) | [Joe Caulfield](https://twitter.com/realbuffalojoe) | Encode Hackathon 2023 |
